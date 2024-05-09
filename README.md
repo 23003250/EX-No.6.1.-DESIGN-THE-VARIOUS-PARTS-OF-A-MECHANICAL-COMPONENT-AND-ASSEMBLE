@@ -67,6 +67,9 @@ If the components do not fit properly into the slots, it can be moved into the s
 ![exp 6 1 1](https://github.com/23003250/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139331462/c8ab0f39-302f-4fcc-8895-25e420199290)
 
 #### BASE PLATE  
+![exp 6 1 2](https://github.com/23003250/EX-No.6.1.-DESIGN-THE-VARIOUS-PARTS-OF-A-MECHANICAL-COMPONENT-AND-ASSEMBLE/assets/139331462/8368f0e7-7f5b-43e8-beda-2439e583e4d8)
+
+#### GEAR LINKAGE
 
 ## RESULT:
 Thus, a design of various parts of a mechanical component and assemble it using a bottom-up approach in orthographic view has been done
